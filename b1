@@ -1,2 +1,3 @@
 int led "8"
-lop led 8(1000 mil seg) 
+lop led 8(1000 mil seg);
+not led 8 (1000 mil seg);
